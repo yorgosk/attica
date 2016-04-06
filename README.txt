@@ -1,7 +1,7 @@
 *A Team Espresso production*
 ----------------------------
-Agapiou Marinos:  1115 2014 00002
-Kamaras Georgios: 1115 2014 00058
+Agapiou Marinos
+Kamaras Georgios
 
 *compile: make
 *clean: make clean
